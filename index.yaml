@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  netbird:
+  - apiVersion: v2
+    appVersion: 0.52.2
+    created: "2025-07-30T22:43:34.740830948Z"
+    description: NetBird in the cloud
+    digest: 8141062a294f07526492e9154b11350ac29b54ace83799206ff00b7e241fcad4
+    name: netbird
+    type: application
+    urls:
+    - https://cclloyd.github.io/helm-charts/charts/netbird/netbird-1.1.1-1.tgz
+    version: 1.1.1-1
+generated: "2025-07-30T22:43:34.739613505Z"
