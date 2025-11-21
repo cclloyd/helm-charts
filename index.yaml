@@ -3,7 +3,17 @@ entries:
   netbird:
   - apiVersion: v2
     appVersion: 0.60.2
-    created: "2025-11-21T23:05:16.485236148Z"
+    created: "2025-11-21T23:32:18.018587245Z"
+    description: NetBird in the cloud
+    digest: e0da7707530dc4f1b14a679f2ad2013bd199547a15f96b56ef7c1f3b4b7ae47c
+    name: netbird
+    type: application
+    urls:
+    - https://cclloyd.github.io/helm-charts/charts/netbird/netbird-1.2.2.tgz
+    version: 1.2.2
+  - apiVersion: v2
+    appVersion: 0.60.2
+    created: "2025-11-21T23:32:18.011922049Z"
     description: NetBird in the cloud
     digest: 9ef8a1a04ea72fc20ddf5c05921dbc29d2916a879b1d04e8b0e314425a8cf014
     name: netbird
@@ -13,7 +23,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 0.60.2
-    created: "2025-11-21T23:05:16.482178651Z"
+    created: "2025-11-21T23:32:18.008750848Z"
     description: NetBird in the cloud
     digest: 31feec116caeac552f03b513316c7edf4b0e9c3f969759cfb1cf463088ea11c8
     name: netbird
@@ -23,7 +33,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 0.52.2
-    created: "2025-11-21T23:05:16.478832807Z"
+    created: "2025-11-21T23:32:18.006601251Z"
     description: NetBird in the cloud
     digest: 86e9152d607b3856b4b05e799b69fa98ed871c012bb765fb18f40e7cffa8f690
     name: netbird
@@ -33,7 +43,7 @@ entries:
     version: 1.1.3-1
   - apiVersion: v2
     appVersion: 0.52.2
-    created: "2025-11-21T23:05:16.477159259Z"
+    created: "2025-11-21T23:32:18.003397196Z"
     description: NetBird in the cloud
     digest: 3d0a8eb4929a23f06a685d7749e62b92bce94aa75d5685d1b3a8182ef20688aa
     name: netbird
@@ -43,7 +53,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 0.52.2
-    created: "2025-11-21T23:05:16.475904912Z"
+    created: "2025-11-21T23:32:18.001769947Z"
     description: NetBird in the cloud
     digest: 8141062a294f07526492e9154b11350ac29b54ace83799206ff00b7e241fcad4
     name: netbird
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://cclloyd.github.io/helm-charts/charts/netbird/netbird-1.1.1-1.tgz
     version: 1.1.1-1
-generated: "2025-11-21T23:05:16.474631201Z"
+generated: "2025-11-21T23:32:18.000408136Z"
