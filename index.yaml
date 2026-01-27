@@ -3,7 +3,17 @@ entries:
   netbird:
   - apiVersion: v2
     appVersion: 0.60.2
-    created: "2026-01-27T02:06:17.199218589Z"
+    created: "2026-01-27T02:06:47.966298004Z"
+    description: NetBird in the cloud
+    digest: 1ff69864d370e604f3c4fe756842f6fa54ac6394eb3735d1a0150a7f83302d2f
+    name: netbird
+    type: application
+    urls:
+    - https://cclloyd.github.io/helm-charts/charts/netbird/netbird-1.3.0.tgz
+    version: 1.3.0
+  - apiVersion: v2
+    appVersion: 0.60.2
+    created: "2026-01-27T02:06:47.952597302Z"
     description: NetBird in the cloud
     digest: e0da7707530dc4f1b14a679f2ad2013bd199547a15f96b56ef7c1f3b4b7ae47c
     name: netbird
@@ -13,7 +23,7 @@ entries:
     version: 1.2.2
   - apiVersion: v2
     appVersion: 0.60.2
-    created: "2026-01-27T02:06:17.19491762Z"
+    created: "2026-01-27T02:06:47.948283957Z"
     description: NetBird in the cloud
     digest: 07de471ebb5f56fc5651bfa6f7c89ce434b510830bcabdc6253ca08442822d0e
     name: netbird
@@ -23,7 +33,7 @@ entries:
     version: 1.2.2-1
   - apiVersion: v2
     appVersion: 0.60.2
-    created: "2026-01-27T02:06:17.186283247Z"
+    created: "2026-01-27T02:06:47.939632261Z"
     description: NetBird in the cloud
     digest: 9ef8a1a04ea72fc20ddf5c05921dbc29d2916a879b1d04e8b0e314425a8cf014
     name: netbird
@@ -33,7 +43,7 @@ entries:
     version: 1.2.1
   - apiVersion: v2
     appVersion: 0.60.2
-    created: "2026-01-27T02:06:17.183339902Z"
+    created: "2026-01-27T02:06:47.936641876Z"
     description: NetBird in the cloud
     digest: 31feec116caeac552f03b513316c7edf4b0e9c3f969759cfb1cf463088ea11c8
     name: netbird
@@ -43,7 +53,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: 0.52.2
-    created: "2026-01-27T02:06:17.179923854Z"
+    created: "2026-01-27T02:06:47.933566993Z"
     description: NetBird in the cloud
     digest: 86e9152d607b3856b4b05e799b69fa98ed871c012bb765fb18f40e7cffa8f690
     name: netbird
@@ -53,7 +63,7 @@ entries:
     version: 1.1.3-1
   - apiVersion: v2
     appVersion: 0.52.2
-    created: "2026-01-27T02:06:17.178281407Z"
+    created: "2026-01-27T02:06:47.931718929Z"
     description: NetBird in the cloud
     digest: 3d0a8eb4929a23f06a685d7749e62b92bce94aa75d5685d1b3a8182ef20688aa
     name: netbird
@@ -63,7 +73,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: 0.52.2
-    created: "2026-01-27T02:06:17.177052273Z"
+    created: "2026-01-27T02:06:47.930484154Z"
     description: NetBird in the cloud
     digest: 8141062a294f07526492e9154b11350ac29b54ace83799206ff00b7e241fcad4
     name: netbird
@@ -71,4 +81,4 @@ entries:
     urls:
     - https://cclloyd.github.io/helm-charts/charts/netbird/netbird-1.1.1-1.tgz
     version: 1.1.1-1
-generated: "2026-01-27T02:06:17.175867611Z"
+generated: "2026-01-27T02:06:47.929209505Z"
